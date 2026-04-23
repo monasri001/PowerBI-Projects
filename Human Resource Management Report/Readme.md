@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** you can use for your HR Summary Dashboard project 👇
-
----
-
 # 📊 HR Summary Dashboard
 
 ## 📌 Overview
