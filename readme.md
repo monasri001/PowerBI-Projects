@@ -70,16 +70,6 @@ B.Tech student in **Artificial Intelligence & Data Science** with a strong focus
 
 ---
 
-## ⭐ Support
-
-If you find this repository useful:
-
-* ⭐ Star this repo
-* 🔁 Share with others
-* 💬 Provide feedback
-
----
-
 ## 📬 Contact
 
 * 📧 Email: [monasrimohandoss@gmail.com](mailto:your-email@example.com)
