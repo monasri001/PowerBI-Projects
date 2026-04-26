@@ -31,7 +31,7 @@ B.Tech student in **Artificial Intelligence & Data Science** with a strong focus
 * DAX Calculations
 * Dashboard Design & Storytelling
 * KPI Development
-* Business Insight Generation
+* Business Insight Generation.
 
 ---
 
