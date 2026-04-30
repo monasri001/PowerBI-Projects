@@ -7,7 +7,7 @@ This portfolio showcases my ability to transform raw data into actionable insigh
 
 ## 🚀 About Me
 
-B.Tech student in **Artificial Intelligence & Data Science** with a strong focus on **Data Analytics and Business Intelligence**.
+B.Tech student in **Artificial Intelligence & Data Science** with a strong focus on **Data Analytics and Business Intelligence**
 
 * 💡 Skilled in **Power BI, Python, SQL**
 * 📊 Strong in **data storytelling & dashboard design**
