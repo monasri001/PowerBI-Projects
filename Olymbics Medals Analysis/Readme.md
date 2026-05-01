@@ -154,12 +154,6 @@ This project focuses on transforming raw Olympic data into **clear, actionable i
 
 ---
 
-## ⭐ Show Your Support
-
-If you like this project:
-⭐ Star this repo
-🍴 Fork it
-📢 Share it
 
 ---
 
